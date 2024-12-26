@@ -1,0 +1,198 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+body{
+    background-color: rgb(0, 12, 16);
+    font-family: "Montserrat", serif;
+    color: white; 
+     
+}
+
+*{
+    position: relative;
+    letter-spacing: 2px;
+}
+
+header p{
+    font-weight: 500;
+    padding: 20px;
+}
+.ForBG{
+    width: 1400px;
+    display: flex;
+    left: 308px;
+    top: -220px;
+    border: none;
+    border-radius: 0px;  
+    margin-right: auto;
+}
+h1{
+    top: -1300px;
+    font-size: 60px;
+    font-weight: 500;
+    left: 100px;
+    width: 600px;
+}
+
+.soclgs{
+    top: -1290px;
+    width: 200px;
+    left: 100px;
+}
+.btn{
+    border: none;
+    background-color: rgba(0, 0, 0, 0);
+    color: rgb(255, 255, 255);
+    display: flex;
+    font-size: 22px;
+    padding: 25px;
+    font-weight: 500;
+    border: 2px solid white;
+    justify-content: center;
+    width: 250px;
+    top: -1300px;
+    left: 100px;
+}
+
+.startinf{
+    top: -865px;
+    font-size: 30px;
+    left: 100px;
+    width: 700px;
+    display: flex;
+
+}
+.Strelka{
+    width: 300px;
+    top: -1025px;
+    left: 750px;
+    display: flex;
+}
+.lngimg{
+    display: flex;
+    width: 700px;
+    top: -850px;
+    left: 660px;
+    border: 7px solid rgba(255, 255, 255, 0.381);
+    border-radius: 30px;
+}
+.ex1{
+    display: flex;
+    top: -100px;
+    justify-content: center;
+    width: 600px;
+    left: 100px;
+    border: 7px solid rgba(255, 255, 255, 0.381);
+    border-radius: 30px;
+  
+}
+.ex2{
+    display: flex;
+    top: -100px;
+    justify-content: center;
+    width: 600px;
+    border: 7px solid rgba(255, 255, 255, 0.381);
+    border-radius: 30px;
+    left: 350px;  
+}
+.examp1{
+    display: flex;
+    top: -1950px;
+}
+.tags{
+    top: -2165px;
+    font-size: 40px;
+    border-radius: 20px; 
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    padding: 20px;
+    border: 2px solid white;
+    width: 500px;
+}
+.Deco1{
+    top: -1775px;
+    width: 800px;
+    right: 7px;
+    display: flex;
+}
+.tagsex{
+    top: -1965px;
+    font-size: 40px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    padding: 20px;
+    border: 2px solid white;
+    width: 500px;
+}
+.example1{
+    width: 1000px;
+    top: -1850px;
+    display: flex;
+    margin: auto;
+    border: 7px solid rgba(255, 255, 255, 0.381);
+    border-radius: 30px;
+}
+.tags2{
+    top: -1700px;
+    font-size: 40px;
+    border-radius: 20px; 
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    padding: 20px;
+    border: 2px solid white;
+    width: 500px;
+}
+.Deco2{
+    top: -2980px;
+    width: 800px;
+    display: flex;
+    left: 7px;
+    rotate: 180deg;
+    float: right;
+}
+.ex3{
+    display: flex;
+    top: -100px;
+    justify-content: center;
+    width: 600px;
+    left: 100px;
+    border: 7px solid rgba(255, 255, 255, 0.381);
+    border-radius: 30px;
+}
+.ex4{
+    display: flex;
+    top: -100px;
+    justify-content: center;
+    width: 600px;
+    border: 7px solid rgba(255, 255, 255, 0.381);
+    border-radius: 30px;
+    left: 350px;  
+}
+.examp2{
+    display: flex;
+    top: -1480px;
+}
+.tags3{
+    top: -2700px;
+    font-size: 40px;
+    border-radius: 20px; 
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    padding: 20px;
+    border: 2px solid white;
+    width: 1000px;
+}
+.ex5{
+    display: flex;
+    top: -2580px;
+    width: 800px;
+    border: 7px solid rgba(255, 255, 255, 0.381);
+    border-radius: 30px;
+    margin: auto;
+  
+}
+
+
